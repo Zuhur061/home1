@@ -366,4 +366,71 @@ body {
   text-decoration: none;
   color: #2f80ed;
   font-size: 22px;
+}
+
+.footer-section-unique {
+  background: #2c2b40;
+  padding: 80px 20px;
+  font-family: sans-serif;
+}
+.footer-section-unique .footer-container-unique {
+  max-width: 1250px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+.footer-section-unique .footer-box-unique h3 {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.footer-section-unique .footer-box-unique ul {
+  list-style: none;
+}
+.footer-section-unique .footer-box-unique li {
+  margin-bottom: 20px;
+}
+.footer-section-unique .footer-box-unique a {
+  text-decoration: none;
+  color: #cfcfcf;
+  font-size: 22px;
+}
+.footer-section-unique .footer-subscribe-unique {
+  max-width: 370px;
+}
+.footer-section-unique .footer-subscribe-unique h3 {
+  color: white;
+  font-size: 32px;
+  line-height: 45px;
+  margin-bottom: 25px;
+}
+.footer-section-unique .footer-subscribe-unique p {
+  color: #cfcfcf;
+  font-size: 20px;
+  line-height: 35px;
+  margin-bottom: 30px;
+}
+.footer-section-unique .footer-subscribe-unique form {
+  display: flex;
+  border: 1px solid #727272;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.footer-section-unique .footer-subscribe-unique input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 20px;
+  color: white;
+  font-size: 18px;
+}
+.footer-section-unique .footer-subscribe-unique button {
+  border: none;
+  background: white;
+  padding: 20px 30px;
+  cursor: pointer;
+  font-size: 18px;
 }/*# sourceMappingURL=style.css.map */
